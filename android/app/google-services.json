@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027622732936",
+    "project_id": "crowdsafe-dce1a",
+    "storage_bucket": "crowdsafe-dce1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027622732936:android:9a19649f6845f451580b3d",
+        "android_client_info": {
+          "package_name": "com.example.crowdsafeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027622732936-ha0npi7dr5b97uoa86kimlck7tv7edc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crowdsafeapp",
+            "certificate_hash": "235d67bf5dbb20c48e65a8fb17cbdfedcbf93f2f"
+          }
+        },
+        {
+          "client_id": "1027622732936-rbf2lg9ifdqpgd0i0iaj09m3fp8ppp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqN55ZneA0v6giOTSQbY90MemAzbnH6hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027622732936-rbf2lg9ifdqpgd0i0iaj09m3fp8ppp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
